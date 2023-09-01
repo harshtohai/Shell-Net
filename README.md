@@ -58,7 +58,7 @@
 #
 ### Simple ones
 - ##### [ ] Modify Group Members Command
-- ##### [ ] Group Created date.
+- [ ] ##### Group Created date.
 - ##### [ ] Server Ban
 - ##### [ ] Admin Commands
 - ##### [ ] Message delete
