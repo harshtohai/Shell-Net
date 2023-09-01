@@ -44,10 +44,30 @@
     8. Search           / SU -->  Search for a new user.
     9. Back             / B  -->  Go back to #Main Body.
     10. Exit            / E  -->  Exit Shell Net.
-### 4. ** Chat Commands **
+### 4. **Chat Commands**
 #### Chat Commands. There are so few of them but IMP.
-    1. /GroupInfo    |  /GI --> Shows all the details related to the group.
-    2. /GroupMembers |  /GM --> Show all the Members in the Group. 
-    3. /SendPost     |  /SP --> Sends your last post by default you can type /SendPost 3 to send your 3rd post and so on.
-### This are some of the Commands. 
-#### You can always use commands **help or /h** for more information in any body.
+    1. /GroupInfo      |  /GI     --> Shows all the details related to the group.
+    2. /GroupMembers   |  /GM     --> Show all the Members in the Group. 
+    3. /SendPost       |  /SP     --> Sends your last post by default.
+    4. /SendPost (i)   |  /SP (i) --> (i) will be the index of the post you wanna share
+##### This are some of the Commands. 
+##### You can always use commands **help or /h** for more information in any body.
+### Contibution check list.
+##### If you want to contribute contact me by my at harsh.panchal.me@gmail.com 
+##### Check list of what can be added in this project and what can be improved
+#
+### Simple ones
+- [] Modify Group Members Command
+- [] Group Created date.
+- [] Server Ban
+- [] Admin Commands
+- [] Message delete
+### Hard Ones
+- [] Data base upload system when server might crash
+- [] Ban user 
+- [] Cursor click system
+- [] a Nice sticky users info in left and scrollable chat in right
+- [] Post recommendation system.
+#### Will be uploading new features in the check list stay updated for that. 
+
+
