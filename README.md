@@ -57,17 +57,17 @@
 ##### Check list of what can be added in this project and what can be improved
 #
 ### Simple ones
-- [ ] Modify Group Members Command
-- [ ] Group Created date.
-- [ ] Server Ban
-- [ ] Admin Commands
-- [ ] Message delete
+- ##### [ ] Modify Group Members Command
+- ##### [ ] Group Created date.
+- ##### [ ] Server Ban
+- ##### [ ] Admin Commands
+- ##### [ ] Message delete
 ### Hard Ones
-- [ ] Data base upload system when server might crash
-- [ ] Ban user 
-- [ ] Cursor click system
-- [ ] a Nice sticky users info in left and scrollable chat in right
-- [ ] Post recommendation system.
+- ##### [ ] Data base upload system when server might crash
+- ##### [ ] Ban user 
+- ##### [ ] Cursor click system
+- ##### [ ] a Nice sticky users info in left and scrollable chat in right
+- ##### [ ] Post recommendation system.
 #### Will be uploading new features in the check list stay updated for that. 
 
 
