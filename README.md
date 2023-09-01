@@ -12,38 +12,38 @@
 #### #Auth Body handels all the Authentication System.
 ##### Here are the Commands which you can use in #Auth Body.
 
-    1. Login
-    2. Register
-    3. Exit
+    1. Login     |  L --> Login into your account.
+    2. Register  |  R --> Register for a New account
+    3. Exit      |  E --> Exit Shell Net.
 
 ### 2. **#Main Body**
 #### #Main Body is denotaed as to be the Navbar. 
 ##### #Main body consist many different Commands here are some of them.
-    1. ViewProfile   \ VP  -->  Have a look at your profile.
-    2. UpdateProfile \ UP  -->  Update your profile.
-    3. NewPost       \ NP  -->  Upload a Post.
-    4. MyPosts       \ MP  -->  See all your posts.
-    5. DelPost       \ DP  -->  Delete Post.
-    6. SearchUser    \ SU  -->  Search for a user.
-    7. CreateGroup   \ CG  -->  Create your own new Group.
-    8. JoinGroup     \ JG  -->  Join a group by its unique ID.
-    9. Chat          \ C   -->  Have a fun Chat with your friends.
-    10. Exit         \ E   -->  Exit the Shell Net.
+    1. ViewProfile   | VP  -->  Have a look at your profile.
+    2. UpdateProfile | UP  -->  Update your profile.
+    3. NewPost       | NP  -->  Upload a Post.
+    4. MyPosts       | MP  -->  See all your posts.
+    5. DelPost       | DP  -->  Delete Post.
+    6. SearchUser    | SU  -->  Search for a user.
+    7. CreateGroup   | CG  -->  Create your own new Group.
+    8. JoinGroup     | JG  -->  Join a group by its unique ID.
+    9. Chat          | C   -->  Have a fun Chat with your friends.
+    10. Exit         | E   -->  Exit the Shell Net.
 
 ### 3. **#Search Body**
 #### #Search Body is denotaed as to be Search field. 
 ##### #Search body consist many different Commands which you can use on the Searched User.
 
-    1. User.ViewProfile / VP -->  View Searched users Profile.
-    2. User.ShowPosts   / SP -->  View Searched users Posts.
-    3. User.Follow      / F  -->  Follow the searched user.
-    4. User.UnFollow    / UF -->  UnFollow the searched user.
-    5. User.Followers   / FS -->  Show Followers of the searched user.
-    6. User.Followings  / FG -->  Show Followings of the searched user.
-    7. User.Chat        / UC -->  Chat with the Search User.
-    8. Search           / SU -->  Search for a new user.
-    9. Back             / B  -->  Go back to #Main Body.
-    10. Exit            / E  -->  Exit Shell Net.
+    1. User.ViewProfile | VP -->  View Searched users Profile.
+    2. User.ShowPosts   | SP -->  View Searched users Posts.
+    3. User.Follow      | F  -->  Follow the searched user.
+    4. User.UnFollow    | UF -->  UnFollow the searched user.
+    5. User.Followers   | FS -->  Show Followers of the searched user.
+    6. User.Followings  | FG -->  Show Followings of the searched user.
+    7. User.Chat        | UC -->  Chat with the Search User.
+    8. Search           | SU -->  Search for a new user.
+    9. Back             | B  -->  Go back to #Main Body.
+    10. Exit            | E  -->  Exit Shell Net.
 ### 4. **Chat Commands**
 #### Chat Commands. There are so few of them but IMP.
     1. /GroupInfo      |  /GI     --> Shows all the details related to the group.
